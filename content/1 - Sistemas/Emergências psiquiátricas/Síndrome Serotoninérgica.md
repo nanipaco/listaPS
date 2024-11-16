@@ -1,4 +1,6 @@
+
 ### Critérios diagnósticos
+
 - Uso de droga serotoninérgica (obrigatório) e mais um dos seguintes:
 	- Clônus espontâneo
 	- Clônus induzido com agitação ou diaforese

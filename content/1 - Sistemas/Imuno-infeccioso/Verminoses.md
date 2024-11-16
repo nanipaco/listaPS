@@ -1,0 +1,15 @@
+**ANCILOSTOMÍASE / ASCARIDÍASE / TRICURÍASE / CISTICERCOSE / OXIURÍASE / CLONORQUÍASE / HIDATIDOSE**
+```
+**USO INTERNO:**  
+
+1) ALBENDAZOL 400 MG ---------------------------------------------------------------------- 02 CPS
+TOMAR 01 COMPRIMIDO EM DOSE ÚNICA, REPETIR APÓS 7 A 14 DIAS
+```
+
+**TENÍASE / LARVA MIGRANS CUTÂNEA / LARVA MIGRANS VISCERAL / TRICOSTRONGILÍASE**
+```
+**USO INTERNO:**
+
+1) ALBENDAZOL 400 MG ---------------------------------------------------------------------- 03 CPS
+TOMAR 01 COMPRIMIDO AO DIA POR 3 DIAS
+```

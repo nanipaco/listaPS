@@ -1,4 +1,3 @@
-
 ### Critérios diagnósticos
 
 - Uso de droga serotoninérgica (obrigatório) e mais um dos seguintes:
@@ -18,4 +17,3 @@
 - Cipro-heptadina em caso de falha do benzodiazepínico, 8 a 12mg com doses repetidas de 2mg a cada 2 horas até melhora clínica ser observada (descontinuar terapia com cipro-heptadina se não observar)
 - Clorpromazina em casos refratários
 - Pacientes com disautonomia podem alternar episódios de hipertensão grave com hipotensão. Assim, são indicados anti-hipertensivos EV de ação curta (nitroprussiato ou esmolol). Em caso de hipotensão, utilizar vasopressores EV de ação direta (norepinefrina, epinefrina ou fenilefrina) se não houver melhora com a ressuscitação volêmica.
-

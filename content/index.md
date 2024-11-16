@@ -68,7 +68,7 @@ title: Lista de Doenças v1.0
 - [[Sepse]]
 - [[Febre]]
 - [[Donovanose e linfogranuloma venéreo]]
-- [[Gonorreia e clamídia]]
+- [[Gonorreia e Clamidia]]
 - [[Sífilis]]
 - [[Tricomoníase]]
 - [[Escabiose]]
@@ -76,7 +76,7 @@ title: Lista de Doenças v1.0
 - [[Varicela (Catapora)]]
 - [[Verminoses]]
 - [[Agitação Psicomotora]]
-- [[Síndrome serotoninérgica]]
+- [[Sindrome Serotoninergica]]
 - [[Síndrome Neuroléptica maligna]]
 - [[Diarreia Aguda]]
 - [[Insuficiência Renal Aguda (IRA)]]
@@ -84,7 +84,7 @@ title: Lista de Doenças v1.0
 
 ### **Cirurgia**
 - [[Hemorragia Digestiva Alta (HDA)]]
-- [[Doença diverticular aguda]]
+- [[Doenca Diverticular Aguda]]
 - [[Ureterolitíase (cólica renal)]]
 - [[TCE leve]]
 - [[Hemorróidas]]

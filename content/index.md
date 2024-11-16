@@ -79,7 +79,6 @@ title: Lista de Doenças v1.0
 - [[Síndrome serotoninérgica]]
 - [[Síndrome Neuroléptica maligna]]
 - [[Diarreia Aguda]]
-- [[Diarreia crônica]]
 - [[Insuficiência Renal Aguda (IRA)]]
 - [[Urticária]]
 
@@ -100,4 +99,8 @@ title: Lista de Doenças v1.0
 - [[Candidíase Vaginal]]
 - [[Contracepção de Emergência]]
 - [[Dermatite Seborreica]]
+
+
+
+
 

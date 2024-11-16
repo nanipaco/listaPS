@@ -1,24 +1,24 @@
 ### **Acesso rápido**
- **[[Dor Torácica]]**
- **[[Síndrome Gripal]]**
- **[[Rinossinusite]]** 
- **[[Faringite]]**
- **[[Infecção de Trato Urinário (ITU)]]**
- **[[Diarreia Aguda]]**
- **[[Pneumonia Adquirida na Comunidade]]**
- **[[Asma]]**
- **[[Dor Abdominal]]**
- **[[Dispepsia]]**
- **[[Dores Musculares (lombalgia)]]**
- **[[Crise de Ansiedade]]**
- **[[Cefaleias Agudas]]**
- **[[Dengue]]**
- **[[Síndromes Vertiginosas Agudas]]**
- **[[Conjuntivite]]**
- **[[Constipação]]**
- **[[Infecções de Pele e Partes Moles]]**
- **[[Otite]]**
- **[[Modelo Internação]]**
+ - [[Dor Torácica]] 
+ - [[Síndrome Gripal]]
+ - [[Rinossinusite]] 
+ - [[Faringite]]
+ - [[Infecção de Trato Urinário (ITU)]]
+ - [[Diarreia Aguda]]
+ - [[Pneumonia Adquirida na Comunidade]]
+ - [[Asma]]
+ - [[Dor Abdominal]]
+ - [[Dispepsia]]
+ - [[Dores Musculares (lombalgia)]]
+ - [[Crise de Ansiedade]]
+ - [[Cefaleias Agudas]]
+ - [[Dengue]]
+ - [[Síndromes Vertiginosas Agudas]]
+ - [[Conjuntivite]]
+ - [[Constipação]]
+ - [[Infecções de Pele e Partes Moles]]
+ - [[Otite]]
+ - [[Modelo Internação]]
 
 ### **Emergências**  
 **Cardiovasculares:**

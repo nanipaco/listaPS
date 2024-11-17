@@ -1,13 +1,9 @@
 ```
-ID:
-
 QD:
 
 HMA:
 
 AP:
-
-MUC:
 ```
 
 Masculino

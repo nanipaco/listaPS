@@ -2,26 +2,26 @@
 title: Lista de Doenças v1.0
 ---
 ### **Acesso rápido**
- **[[Dor Torácica]]**
- **[[Síndrome Gripal]]**
- **[[Rinossinusite]]** 
- **[[Faringite]]**
- **[[Infecção de Trato Urinário (ITU)]]**
- **[[Diarreia Aguda]]**
- **[[Pneumonia Adquirida na Comunidade]]**
- **[[Asma]]**
- **[[Dor Abdominal]]**
- **[[Dispepsia]]**
- **[[Dores Musculares (lombalgia)]]**
- **[[Crise de Ansiedade]]**
- **[[Cefaleias Agudas]]**
- **[[Dengue]]**
- **[[Síndromes Vertiginosas Agudas]]**
- **[[Conjuntivite]]**
- **[[Constipação]]**
- **[[Infecções de Pele e Partes Moles]]**
- **[[Otite]]**
- **[[Modelo Internação]]**
+ [[Dor Torácica]]
+ [[Síndrome Gripal]]
+ [[Rinossinusite]] 
+ [[Faringite]]
+ [[Infecção de Trato Urinário (ITU)]]
+ [[Diarreia Aguda]]
+ [[Pneumonia Adquirida na Comunidade]]
+ [[Asma]]
+ [[Dor Abdominal]]
+ [[Dispepsia]]
+ [[Dores Musculares (lombalgia)]]
+ [[Crise de Ansiedade]]
+ [[Cefaleias Agudas]]
+ [[Dengue]]
+ [[Síndromes Vertiginosas Agudas]]
+ [[Conjuntivite]]
+ [[Constipação]]
+ [[Infecções de Pele e Partes Moles]]
+ [[Otite]]
+ [[Modelo Internação]]
 
 ### **Emergências**  
 **Cardiovasculares:**
@@ -68,7 +68,7 @@ title: Lista de Doenças v1.0
 **[[Sepse]]**
 [[Febre]]
 **[[Donovanose e linfogranuloma venéreo]]**
-[[Gonorreia e clamídia]]
+[[Gonorreia e Clamidia]]
 **[[Sífilis]]**
 [[Tricomoníase]]
 **[[Escabiose]]**
@@ -76,17 +76,16 @@ title: Lista de Doenças v1.0
 **[[Varicela (Catapora)]]**
 [[Verminoses]]
 **[[Agitação Psicomotora]]**
-[[Síndrome serotoninérgica]]
+[[Sindrome Serotoninergica]]
 **[[Síndrome Neuroléptica maligna]]**
 [[Diarreia Aguda]]
-**[[Diarreia crônica]]**
 [[Insuficiência Renal Aguda (IRA)]]
 [[Urticária]]
 [[Anafilaxia]]
 
 ### **Cirurgia**
  [[Hemorragia Digestiva Alta (HDA)]]
- [[Doença diverticular aguda]]
+ [[Doença Diverticular Aguda]]
  [[Ureterolitíase (cólica renal)]]
  [[TCE leve]]
 [[Hemorróidas]]

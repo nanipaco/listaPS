@@ -1,8 +1,11 @@
 ---
 title: Lista de Doenças
 ---
-
-### **Campeões de Vendas**
+### **Modelos**
+- [[Exame Físico]]
+- [[Modelo Internação]]
+- [[Atestado]]
+### **Acesso Rápido**
 - [[Asma]]
 - [[Cefaleias Agudas]]
 - [[Conjuntivite]]

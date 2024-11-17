@@ -88,7 +88,7 @@ title: Lista de Doenças
 [[Hordéolo (Terçol)]]
 [[Insuficiência Venosa Crônica]]
 [[Síndromes Vertiginosas Agudas ]]
-[[Bateu cabes]]
+[[TCE leve]]
 [[Ureterolitíase (cólica renal)]]
 
 ### **G.O.**

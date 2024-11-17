@@ -1,6 +1,3 @@
----
-title: Lista de Doenças v1.0
----
 ### **Acesso rápido**
  **[[Dor Torácica]]**
  **[[Síndrome Gripal]]**
@@ -101,5 +98,4 @@ title: Lista de Doenças v1.0
 [[Candidíase Vaginal]]
 [[Contracepção de Emergência]]
 [[Dermatite Seborreica]]
-
 

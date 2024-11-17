@@ -59,9 +59,10 @@ title: Lista de Doenças
 [[Infecções de Pele e Partes Moles]]
 [[Insuficiência Hepática]]
 [[Insuficiência Renal Aguda (IRA)]]
-[[Meningite e Encefalite]]
+[[Meningo]]
 [[Otite]]
 [[Paralisias Flácidas]]
+[[Pediculose]]
 [[Pericardite]]
 [[Pneumonia Adquirida na Comunidade]]
 [[Pé Diabético]]
@@ -71,6 +72,7 @@ title: Lista de Doenças
 [[Sífilis]]
 [[Síndrome Gripal]]
 [[Síndrome Neuroléptica maligna]]
+[[Tínea]]
 [[Tricomoníase]]
 [[Urticária]]
 [[Varicela (Catapora)]]
@@ -86,7 +88,7 @@ title: Lista de Doenças
 [[Hordéolo (Terçol)]]
 [[Insuficiência Venosa Crônica]]
 [[Síndromes Vertiginosas Agudas ]]
-[[TCE leve]]
+[[Bateu cabes]]
 [[Ureterolitíase (cólica renal)]]
 
 ### **G.O.**

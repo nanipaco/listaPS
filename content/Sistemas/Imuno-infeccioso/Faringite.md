@@ -1,5 +1,5 @@
 
-![[t1-probabilidade-de-faringite-por-streptococcus-pyogenes-segundo-criterios-de-centor-e-mcisaac.png]]
+![[public/2---Mídia/t1-probabilidade-de-faringite-por-streptococcus-pyogenes-segundo-criterios-de-centor-e-mcisaac.png]]
 
 Base
 ```

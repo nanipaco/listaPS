@@ -1,6 +1,9 @@
 ---
 title: Lista de Doenças v1.0
 ---
+
+[[Modelo Internação]]
+[[Exame Físico]]
 ### **Acesso rápido**
  [[Dor Torácica]]
  [[Síndrome Gripal]]
@@ -21,7 +24,6 @@ title: Lista de Doenças v1.0
  [[Constipação]]
  [[Infecções de Pele e Partes Moles]]
  [[Otite]]
- [[Modelo Internação]]
 
 ### **Emergências**  
 **Cardiovasculares:**
@@ -53,7 +55,7 @@ title: Lista de Doenças v1.0
 [[Cefaleias Agudas]]
 [[Hemorragia Subaracnóidea]]
 [[Meningite e Encefalite]]
-[[Paralisias flácidas agudas]]
+[[teste]]
 
 ### **Clínica Médica**
 [[Pé Diabético]]

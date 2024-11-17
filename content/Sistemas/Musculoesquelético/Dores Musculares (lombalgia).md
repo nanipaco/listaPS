@@ -25,15 +25,16 @@ Cetoprofeno 100mg IM agora
 
 Na alta
 ```
-1) Dipirona 1g -------------------------------------------------------
+1) Dipirona 1g ----------------------------------------------------------------------------------------------------  
 Tomar 1cp, via oral, até de 6 em 6h, se dor
-2) Cetoprofeno 100mg -------------------------------------------------
-Tomar 1cp, de 12 em 12h, por 7 dias
-
- Medidas de autocuidado: 
-- Repouso relativo
-- Aplicação de gelo/calor
-- Manter hidratação adequada 
+  
+2) Cetoprofeno 100mg -----------------------------------------------------------------------------------------  
+Tomar 1cp, de 12 em 12h, por 7 dias  
+  
+Medidas de autocuidado:  
+- Repouso relativo  
+- Aplicação de gelo/calor  
+- Manter hidratação adequada  
 - Procurar atendimento se houver piora dos sintomas
 ```
 **Orientar compressas quentes no local**

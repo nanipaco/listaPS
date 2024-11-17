@@ -1,7 +1,8 @@
 ---
 title: Lista de Doenças
 ---
-### **Fast Food**
+
+### **Campeões de Vendas**
 - [[Asma]]
 - [[Cefaleias Agudas]]
 - [[Conjuntivite]]
@@ -16,6 +17,7 @@ title: Lista de Doenças
 - [[Faringite]]
 - [[Infecção de Trato Urinário (ITU)]]
 - [[Infecções de Pele e Partes Moles]]
+- [[IVAS]]
 - [[Otite]]
 - [[Pneumonia Adquirida na Comunidade]]
 - [[Rinossinusite]]

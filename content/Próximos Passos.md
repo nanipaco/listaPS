@@ -1,0 +1,7 @@
+- [ ] Página de balanopostite
+- [ ] Arrumar formatação de todas prescrições
+- [ ] Criar página de orientações
+- [ ] Criar exame físico alterado esperado pras queixas mais comuns
+- [ ] Escrever "conduta" pras queixas mais comuns
+- [ ] Página de TVP
+- [ ] Página de farmacodermias

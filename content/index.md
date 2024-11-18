@@ -1,10 +1,6 @@
 ---
 title: Lista de Doenças
 ---
-### **Modelos**
-- [[Exame Físico]]
-- [[Modelo Internação]]
-- [[Atestado]]
 ### **Acesso Rápido**
 - [[Asma]]
 - [[Cefaleias Agudas]]
@@ -101,4 +97,9 @@ title: Lista de Doenças
 [[Contracepção de Emergência]]
 [[Dermatite Seborreica]]
 
-
+### **Modelos**
+- [[Atestado]]
+- [[Exame Físico]]
+- [[Internação]]
+### **A seguir**
+- [[Próximos Passos]]

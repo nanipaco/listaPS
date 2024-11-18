@@ -5,3 +5,4 @@
 - [ ] Escrever "conduta" pras queixas mais comuns
 - [ ] Página de TVP
 - [ ] Página de farmacodermias
+- [ ] Criar página de orientações

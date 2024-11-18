@@ -13,3 +13,10 @@ USO RETAL:
 3) SUPOSITÓRIO DE GLICERINA (2392 MG/SUP) --------------------------------------- 01 CX
 COLOCAR 01 SUPOSITÓRIO, POR VIA RETAL, SE NECESSÁRIO
 ```
+
+Se houver necessidade de enema no PS (fecaloma na iminência de sair)
+```
+Fleet enema 120ml via retal agora (repetir 01 vez se não efetivo)
+```
+
+

@@ -35,7 +35,7 @@ Medidas de autocuidado:
 - Repouso relativo  
 - Aplicação de gelo/calor  
 - Manter hidratação adequada  
-- Procurar atendimento se houver piora dos sintomas
+- Procurar atendimento se houver dor incontrolável, fraqueza muscular, febre alta ou calafrios, incontinência urinária ou fecal
 ```
 **Orientar compressas quentes no local**
 

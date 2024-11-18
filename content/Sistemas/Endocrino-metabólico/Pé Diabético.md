@@ -39,6 +39,6 @@ TOMAR 02 COMPRIMIDOS, VIA ORAL, DE 6/6 H, CASO HAJA DOR
 ```
 
 **Encaminhar para atendimento ambulatorial**
-Se muito isquêmico, avaliar internar 
-Internar se sinais sistêmicos, claro
+- Se muito isquêmico, avaliar internar 
+- Internar se sinais sistêmicos, claro
 

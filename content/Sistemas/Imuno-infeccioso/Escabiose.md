@@ -4,7 +4,7 @@ USO INTERNO:
 1) IVERMECTINA 6 MG ----------------------------------------------------------------------- XX CPS
 TOMAR X COMPRIMIDOS EM DOSE ÚNICA, REPETIR A DOSE EM 7 A 14 DIAS
 
-***** 200 MCG/KG/DIA  (6mg por comprimido)
+***** DOSE: 200 MCG/KG/DIA  (6mg por comprimido)
 
 USO TÓPICO:
 

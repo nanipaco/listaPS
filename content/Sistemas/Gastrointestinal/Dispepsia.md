@@ -11,10 +11,10 @@
 
 ```
 1) Omeprazol 20mg-------------------------------------------------------------
-Tomar 1 cp, via oral, 1 vez ao dia, em jejum, 30 minutos antes da primeira refeição, por 14 dias.
+Tomar 2 cps, via oral, 1 vez ao dia, em jejum, 30 minutos antes da primeira refeição, por 21 dias.
 
 2) Metoclopramida 10mg -------------------------------------------------------
-Tomar 1cp  30 minutos antes das refeições em caso de falha do controle de sintomas com omeprazol, durante os 14 dias de tratamento. Não ultrapassar 4 cps ao dia.
+Tomar 1cp  30 minutos antes das refeições em caso de falha do controle de sintomas com omeprazol, durante os 21 dias de tratamento. Não ultrapassar 4 cps ao dia.
 
 
 ORIENTAÇÕES REFLUXO

@@ -2,6 +2,7 @@
 title: Lista de Doenças
 ---
 ### **Acesso Rápido**
+- [[Abdome Agudo]]
 - [[Asma]]
 - [[Cefaleias Agudas]]
 - [[Conjuntivite]]
@@ -54,7 +55,9 @@ title: Lista de Doenças
 [[Faringite]]
 [[Febre]]
 [[Gonorreia e Clamidia]]
+[[Gota]]
 [[Herpes]]
+[[Hordéolo (Terçol)]]
 [[Hipoglicemia]]
 [[Infecção de Trato Urinário (ITU)]]
 [[Infecções de Pele e Partes Moles]]
@@ -84,12 +87,9 @@ title: Lista de Doenças
 [[Anemia]]
 [[Doença Diverticular Aguda]]
 [[Dores Musculares (lombalgia)]]
-[[Gota]]
 [[Hemorragia Digestiva Alta (HDA)]]
 [[Hemorróidas]]
-[[Hordéolo (Terçol)]]
 [[Insuficiência Venosa Crônica]]
-[[Síndromes Vertiginosas Agudas ]]
 [[TCE leve]]
 [[Ureterolitíase (cólica renal)]]
 

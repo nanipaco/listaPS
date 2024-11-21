@@ -7,5 +7,5 @@ Retorne ao pronto socorro se sensação de sonolência (mais que o esperado) ou 
 ```
 
 > [!tip]
-> Não escrever TCE no prontuário, pois isso, juridicamente, tende a ser interpretado como se houvesse lesão de parênquima cerebral ("O sr. não pediu TC pra alguém com lesão de parênquima?!").
+> Não escrever TCE no prontuário, pois isso, juridicamente, tende a ser interpretado como se houvesse lesão de parênquima cerebral ("O sr. não pediu TC pra alguém com lesão de parênquima?!"). Sugiro **"Trauma de crânio"**
 

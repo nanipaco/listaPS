@@ -22,19 +22,23 @@ Se falha com tratamento acima,
 Sulfato de Magnésio 2g, EV, infundir em 20 minutos (20ml de MgSO4 10% + 200ml de SF0,9%, em BIC)
 ```
 **Alvo de SpO2 >93%**
-
 ### Ambulatorial
 Leve
 ```
-1. Formoterol 6mcg + budesonida 200mcg------------------------------------
+USO INALATÓRIO  
+1. Formoterol 6mcg + budesonida 200mcg----------------------------------------------------------------  
 Inalar 1cp até de 12 em 12h se crise de asma
 ```
 
 Moderado
 ```
-1. Formoterol 12mcg + budesonida 400mcg----------------------------------
+USO INALATÓRIO
+
+1. Formoterol 12mcg + budesonida 400mcg--------------------------------------------------------------  
 Inalar 1cp até de 12 em 12h se crise de asma
-2. Prednisona 20mg -------------------------------------------------10cps
+
+  
+2. Prednisona 20mg ------------------------------------------------------------------------------------10cps  
 Tomar 2cps, pela manhã, por até 5 dias
 ```
 

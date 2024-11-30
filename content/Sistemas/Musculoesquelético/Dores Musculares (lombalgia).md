@@ -61,5 +61,49 @@ Sinais de alerta para retorno ao PS:
 - Febre alta ou calafrios 
 - Incontinência urinária ou fecal 
 
+### Modelo de consulta
+masculino
+```
+QD: Dor na lombar há 1 dia
 
+HMA: Paciente refere dor em região lombar há 1 dia, com caráter osteomuscular (piora ao movimentar, pegar peso ou abaixar), de moderada intensidade, sem irradiações. Nega parestesias, alterações de força, alteração de hábitos urinários, febre, perda de peso recente ou incontinência urinária/fecal. Refere outros episódios semelhantes com resolução espontânea.
 
+AP:
+
+MUC:
+
+Exame físico:
+- Controles: T ºC
+- Geral: Bom estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque
+- Neurológico: Vigil, Lúcido e orientado em tempo e espaço. Glasgow 15. Pupilas isocóricas fotorreagentes. Sem déficits focais. Sem sinais de hipoestesia em sela, parestesias ou alterações de reflexo ou força.
+- Osteomuscular: Palpação de região vertebral sem alterações ou dores. Reprodutibilidade da queixa álgica mediante palpação de musculatura paravertebral em território lombar
+- Extremidades: Sem edema
+
+Conduta:
+- Realizo sintomáticos (dipirona e cetoprofeno) intramuscular agora.
+- Prescrevo analgesia para casa
+- Oriento sinais de alarme, como perda de peso, alterações de sensibilidade sobretudo em membros inferiores, fraqueza, incontinência urinária e/ou fecal
+```
+
+feminino
+```
+QD: Dor na lombar há 1 dia
+
+HMA: Paciente refere dor em região lombar há 1 dia, com caráter osteomuscular (piora ao movimentar, pegar peso ou abaixar), de moderada intensidade, sem irradiações. Nega parestesias, alterações de força, alteração de hábitos urinários, febre, perda de peso recente ou incontinência urinária/fecal. Refere outros episódios semelhantes com resolução espontânea.
+
+AP:
+
+MUC:
+
+Exame físico:
+- Controles: T ºC
+- Geral: Bom estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque
+- Neurológico: Vigil, Lúcida e orientada em tempo e espaço. Glasgow 15. Pupilas isocóricas fotorreagentes. Sem déficits focais. Sem sinais de hipoestesia em sela, parestesias ou alterações de reflexo ou força.
+- Osteomuscular: Palpação de região vertebral sem alterações ou dores. Reprodutibilidade da queixa álgica mediante palpação de musculatura paravertebral em território lombar
+- Extremidades: Sem edema
+
+Conduta:
+- Realizo sintomáticos (dipirona e cetoprofeno) intramuscular agora.
+- Prescrevo analgesia para casa
+- Oriento sinais de alarme, como perda de peso, alterações de sensibilidade sobretudo em membros inferiores, fraqueza, incontinência urinária e/ou fecal
+```

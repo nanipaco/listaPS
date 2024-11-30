@@ -15,7 +15,7 @@ title: Lista de Doenças
 - [[Dor Torácica]]
 - [[Dores Musculares (lombalgia)]]
 - [[Faringite]]
-- [[Infecção de Trato Urinário (ITU)]]
+- [[Infecção de Trato Urinário (ITU)]] (daqui pra baixo)
 - [[Infecções de Pele e Partes Moles]]
 - [[IVAS]]
 - [[Otite]]

@@ -59,6 +59,48 @@ Se crise muito intensa
 #### Em caso de falha da segunda medida
 - Adicionar neurologista ou teleneuro
 
+### Consulta
+
+Masculino
+```
+QD:
+
+HMA: Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
+
+AP:
+
+MUC:
+
+Exame Físico:
+- Geral: Regular estado geral. Corado, Hidratado, Acianótico, Anictérico e Afebril ao toque
+- Neurológico: Vigil, Lúcido e orientado em tempo e espaço. Glasgow 15. Pupilas isocóricas fotorreagentes. Sem déficits focais.
+
+Conduta:
+- Paciente com quadro enxaquecoso já de recorrência conhecida, sem sinais de alarme e sem sintomas sistêmicos ou neurológicos.
+- Realizo analgesia com sintomaticos e corticoide
+- Alta do PA por melhora do quadro
+```
+
+
+Feminino
+```
+QD:
+
+HMA: Nega tonturas, diplopia, fraqueza, vômitos, sonolência.
+
+AP:
+
+MUC:
+
+Exame Físico:
+- Geral: Regular estado geral. Corada, Hidratada, Acianótica, Anictérica e Afebril ao toque
+- Neurológico: Vigil, Lúcida e orientada em tempo e espaço. Glasgow 15. Pupilas isocóricas fotorreagentes. Sem déficits focais.
+
+Conduta:
+- Paciente com quadro enxaquecoso já de recorrência conhecida, sem sinais de alarme e sem sintomas sistêmicos ou neurológicos.
+- Realizo analgesia com sintomaticos e corticoide
+- Alta do PA por melhora do quadro
+```
 ### Salvas
 #### Critérios diagnósticos
 ![[Pasted image 20241031130954.png]]

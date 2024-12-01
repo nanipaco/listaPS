@@ -2,7 +2,7 @@
 title: Lista de Doenças
 ---
 ### **Acesso Rápido**
-- [[Abdome Agudo]]
+- [[Abdome Agudo]] (fazer)
 - [[Asma]]
 - [[Cefaleias Agudas]]
 - [[Conjuntivite]]
@@ -15,7 +15,7 @@ title: Lista de Doenças
 - [[Dor Torácica]]
 - [[Dores Musculares (lombalgia)]]
 - [[Faringite]]
-- [[Infecção de Trato Urinário (ITU)]] (daqui pra baixo)
+- [[Infecção de Trato Urinário (ITU)]]
 - [[Infecções de Pele e Partes Moles]]
 - [[IVAS]]
 - [[Otite]]

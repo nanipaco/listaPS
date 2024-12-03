@@ -8,7 +8,7 @@ USO ORAL
 1) Dipirona 1g-----------------------------------------------------------------------------------------------------  
 Tomar 1cp, via oral, até de 6 em 6h, se dor ou febre.
 
-2) Ibuprofeno 400mg--------------------------------------------------------------------------------------------  
+2) Ibuprofeno 600mg--------------------------------------------------------------------------------------------  
 Tomar 1cp, via oral, até de 8 em 8h, em caso de dor ou febre persistentes, por no máximo 5 dias.
 ```
 
@@ -20,8 +20,6 @@ Dissolver uma pastilha na boca, duas ou mais vezes ao dia até o alívio dos sin
 4) Neopiridin pastilhas ------------------------------------------------------------------------------------------  
 Dissolver uma pastilha na boca, de acordo com as necessidades, não excedendo 6 pastilhas por dia.
 ```
-
-**(reduzi a posologia de AINE VO pra compensar o AINE que vem junto com o strepsils)**
 ### Se suspeita bacteriana
 - Leve
 ```

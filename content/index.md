@@ -2,7 +2,6 @@
 title: Lista de Doenças
 ---
 ### **Acesso Rápido**
-- [[Abdome Agudo]] (fazer)
 - [[Asma]]
 - [[Cefaleias Agudas]]
 - [[Conjuntivite]]
@@ -13,11 +12,11 @@ title: Lista de Doenças
 - [[Dispepsia]]
 - [[Dor Abdominal]]
 - [[Dor Torácica]]
-- [[Dores Musculares (lombalgia)]]
 - [[Faringite]]
 - [[Infecção de Trato Urinário (ITU)]]
 - [[Infecções de Pele e Partes Moles]]
 - [[IVAS]]
+- [[Lombalgia]]
 - [[Otite]]
 - [[Pneumonia Adquirida na Comunidade]]
 - [[Rinossinusite]]
@@ -86,7 +85,7 @@ title: Lista de Doenças
 ### **Cirurgia**
 [[Anemia]]
 [[Doença Diverticular Aguda]]
-[[Dores Musculares (lombalgia)]]
+[[Lombalgia]]
 [[Hemorragia Digestiva Alta (HDA)]]
 [[Hemorróidas]]
 [[Insuficiência Venosa Crônica]]

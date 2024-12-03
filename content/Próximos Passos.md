@@ -1,3 +1,7 @@
+- [ ] Adicionar CID nas principais
+- [ ] Fazer Modelo Consulta ITU
+- [ ] Página Perfuracao esofagica
+- [ ] Página Intertrigo
 - [ ] Página de TB
 - [ ] Páginas de abdome agudo (obstrutivo, vascular sobretudo)
 - [ ] Fazer compatibilização com SUS

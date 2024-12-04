@@ -46,6 +46,7 @@ title: Lista de Doenças
 [[Anafilaxia]]
 [[Cefaleias Agudas]]
 [[DPOC Exacerbado]]
+[[Dermatite Seborreica]]
 [[Dengue]]
 [[Diarreia Aguda]]
 [[Donovanose e linfogranuloma venéreo]]
@@ -62,7 +63,7 @@ title: Lista de Doenças
 [[Infecções de Pele e Partes Moles]]
 [[Insuficiência Hepática]]
 [[Insuficiência Renal Aguda (IRA)]]
-[[Meningo]]
+[[Meningoencefalites]]
 [[Otite]]
 [[Paralisias Flácidas]]
 [[Pé Diabético]]
@@ -95,7 +96,7 @@ title: Lista de Doenças
 ### **G.O.**
 [[Candidíase Vaginal]]
 [[Contracepção de Emergência]]
-[[Dermatite Seborreica]]
+
 
 ### **Modelos**
 - [[Atestado]]

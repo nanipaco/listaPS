@@ -1,7 +1,10 @@
-- [ ] Adicionar CID nas principais
+P1
+- [x] Adicionar CID nas principais
 - [ ] Fazer Modelo Consulta ITU
-- [ ] Página de colecistite, colelitiase, colangite etc. quando internar 
+- [x] Página de colecistite, colelitiase, colangite etc. quando internar 
 - [ ] Fazer compatibilização com SUS
+
+P2
 - [ ] Página de TVP
 - [ ] Página Perfuracao esofagica
 - [ ] Página Intertrigo

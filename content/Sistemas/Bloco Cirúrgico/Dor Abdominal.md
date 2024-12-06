@@ -34,7 +34,7 @@ Deve ser minuciosa
 - Laboratorio: Hemograma, lipase
 - TC sem contraste
 - ECG
-Se suspeita de dispepsia, ver [[Dispepsia]]
+Se suspeita de dispepsia, ver [[Dispepsia (K30)]]
 
 
 ### Critérios de internação hospitalar

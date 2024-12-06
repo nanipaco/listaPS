@@ -31,7 +31,7 @@ Tomar 02 cps, até de 6 em 6 horas, se dor
 
 ORIENTAÇÕES
 - Mantenha boa ingesta hídrica (ao menos 2L por dia)
-- A Tamsulosina, que vai ajudar a dilatar o canal de passagem do cálculo, pode dar tonturas ao mudar de posição (levantar). Por isso, melhor ser tomada antes de dormir. Tenha cuidado ao levantar
+- A Tamsulosina, que vai ajudar a dilatar o canal de passagem do cálculo, pode dar tonturas ao mudar de posição (levantar). Por isso, melhor ser tomada antes de dormir. Tenha cuidado ao levantar.
 - Caso não haja expulsão do cálculo em até 28 dias, procurar atendimento médico imediatamente
 - Caso haja piora do quadro, aparecimento de febre (temperatura axilar >37,8°C), dificuldade de controle da dor, confusão, tonturas, redução ou parada da eliminação de urina, procurar atendimento médico imediatamente
 ```

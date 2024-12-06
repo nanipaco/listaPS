@@ -1,6 +1,6 @@
 
-- [[Faringite]]
-- [[Rinossinusite]]
+- [[Faringite (J02)]]
+- [[Rinossinusite (J00)]]
 
 
 <br><br>

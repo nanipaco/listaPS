@@ -97,11 +97,3 @@ title: Lista de Doenças
 ### **G.O.**
 [[Candidíase Vaginal]]
 [[Contracepção de Emergência]]
-
-
-### **Modelos**
-- [[Atestado]]
-- [[Exame Físico]]
-- [[Internação]]
-### **A seguir**
-- [[Próximos Passos]]
